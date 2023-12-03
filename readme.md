@@ -58,6 +58,13 @@ To integrate ChatGPT:
 2. Set the API key in your environment variables or configuration file.
 3. Use the `modules/chatgpt/chat.py` module to interface with ChatGPT.
 
+### Work in progress
+
+- Self-hosted speech-to-intent engine
+- Spotter model trainer
+- NLP models web configurator
+- Wide range of sensors support
+
 ### Contributing to RPi Smart Assistant 
 
 We welcome contributions! If you'd like to help improve RPi Smart Assistant, please follow these steps: 
@@ -66,13 +73,6 @@ We welcome contributions! If you'd like to help improve RPi Smart Assistant, ple
 2. Create a new branch for your feature or fix.
 3. Commit your changes with clear, descriptive messages.
 4. Push the branch and open a pull request.
-
-#### <u>Work in progress:</u>
-
-- Self-hosted speech-to-intent engine
-- Spotter model trainer
-- NLP models web configurator
-- Wide range of sensors support
 
 ### Contact Us 
 
