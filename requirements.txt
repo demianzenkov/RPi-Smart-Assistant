@@ -1,0 +1,15 @@
+pvporcupine
+pvrhino
+python-dotenv
+pvrecorder
+numpy
+python-telegram-bot[job-queue]
+Flask
+opencv-python
+pygame
+pyserial
+pynmea2
+pybluez
+vosk
+openai
+pyaudio
