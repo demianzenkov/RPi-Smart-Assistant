@@ -19,12 +19,6 @@ Join us in exploring the frontiers of voice-enabled technologies!
 
 Telegram API is used to interact with clients, send collected data from sensors and handling user-scenarion callbacks.
 
-### Suported sensors:
-
-- NMEA GPS receiver, serial connection
-
-###### 
-
 ### Configuring the Environment 
 
 To get started with RPi Smart Assistant, follow these steps: 
@@ -57,6 +51,26 @@ To integrate ChatGPT:
 1. Obtain an API key from OpenAI.
 2. Set the API key in your environment variables or configuration file.
 3. Use the `modules/chatgpt/chat.py` module to interface with ChatGPT.
+
+### Introduction to Hardware
+
+As part of our ongoing commitment to enhance and evolve the RPi Smart Assistant, we are excited to announce our plans to develop a range of custom Raspberry Pi hats. These hardware extensions are designed to seamlessly integrate with your Raspberry Pi, bringing a new dimension of functionality and interactivity to your smart assistant projects. 
+
+#### Suported sensors:
+
+- NMEA GPS receiver, serial connection
+
+#### Upcoming Hardware Modules
+
+1. **Microphone Array Hat**:
+    - High-quality audio capture for clear voice recognition.   
+    - Advanced noise cancellation for use in various environments. 
+2. **GPS Navigation Hat**:
+   - Precise location tracking for location-based services. 
+   - Integration with mapping and geospatial applications. 
+3.  **Smart Home Sensor Hat**:
+   - A suite of sensors for monitoring temperature, humidity, light, and more. 
+   - Enable your assistant to interact with and control smart home devices. 
 
 ### Work in progress
 
