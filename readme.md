@@ -1,10 +1,10 @@
 # RPi Smart Assistant 
 
-Welcome to RPi Smart Assistant, an innovative voice assistant SDK designed for embedded systems and beyond. This Python-based toolkit enables seamless integration of advanced voice recognition and processing capabilities into your projects. Whether you're building a smart home device, an interactive kiosk, or experimenting with AI, RPi Smart Assistant offers a versatile and powerful solution. 
+Welcome to RPi Smart Assistant, a voice assistant SDK designed for embedded systems and beyond. This Python-based toolkit enables seamless integration of advanced voice recognition and processing capabilities into your projects. Whether you're building a smart home device, an interactive kiosk, or experimenting with AI, RPi Smart Assistant offers a versatile and powerful solution. 
 
 Key Features: 
 
--  Wake-word detection with Porcupine
+- Wake-word detection with Porcupine
 - Speech-to-intent processing using Rhino
 - Offline text-to-speech capabilities with Vosk
 - Advanced conversational AI with ChatGPT integration
