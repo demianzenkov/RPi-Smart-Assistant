@@ -9,7 +9,6 @@ Key Features:
 - Offline text-to-speech capabilities with Vosk
 - Advanced conversational AI with ChatGPT integration
 
-Join us in exploring the frontiers of voice-enabled technologies!
 
 ### Supported Languages
 
